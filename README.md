@@ -40,18 +40,18 @@ Curso focado no aprendizado da ferramenta Jupyter para Análise de Dados e conce
    * Monte Carlo Prevendo Lucro Bruto
    * Monte Carlo Prevendo Preço de Ações
 
-[!NOTE]
+Notas Importantes:
+
 Bibliotecas usadas durante o desenvolvimento:
   * Pandas, Numpy, SciPy, Matplotlib e yFinance
 
-[!NOTE]
+Dados importados do Yahoo Finance
+
 Todos os Dados Incluidos !
 
-[!NOTE]
 Site consultado para ver o rendimento do tesouro americano https://www.bloomberg.com/markets/rates-bonds/government-bonds/us
 
-[!NOTE]
-Dados importados do Yahoo Finance
+
 
 
 
